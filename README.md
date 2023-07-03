@@ -1,6 +1,10 @@
 # Basic testing
 
-⚠️ DO NOT SUBMIT PULL REQUESTS TO THIS REPO ⚠️
+Task is to implement Basic testing.
+
+- [Assignment](https://github.com/AlreadyBored/basic-testing)
+
+Development and full README.md can be found in branch working-branch.
 
 ---
 
