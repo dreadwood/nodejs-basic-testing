@@ -2,7 +2,8 @@
 
 Task is to implement Basic testing.
 
-- [Assignment](https://github.com/AlreadyBored/basic-testing)
+- [Assignment](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/basic-testing/assignment.md)
+- [Score](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/basic-testing/score.md)
 
 Development and full README.md can be found in branch working-branch.
 
